@@ -1,0 +1,8 @@
+#run the app by moving to the directory where the app is saved and run below order on cmd
+streamlit run main_thesis.py
+
+all_fixtures.csv is the file extracted from the database and has all the data of the 'all_fixtures' table
+
+odds.csv is the file extracted from the database and has all the data of the 'odds' table
+
+TOTAL_PREDICTIONS.xlsx has all the predictions that the page 'METRICS' needs to run the visualizations.
